@@ -9,7 +9,8 @@ using namespace std;
 Author:     Chikun Hu, nicholas.hu.12ba@gmail.com
 Date:       Sept 3, 2014
 Problem:    count the number of 1 form 1 to N 
-			e.g. 12 : 1,10,11,12 -> total 5 times
+			e.g. 12 : 1,10,11,12 -> total 5 timest
+			time complex: 2^log(lg(n)) = lg(n)
 			
 Difficulty: Easy
 */
